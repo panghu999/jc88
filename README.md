@@ -4,11 +4,11 @@ JC88刷邀请
 
 2.secrets处填写以下参数
 
-USER 联众账号
+USER xiaohg
 
-PASSWORD 联众密码
+PASSWORD Lb876227946..
 
-INVITECODE 你的邀请码
+INVITECODE WEZN37
 
 TG_BOT_TOKEN TG机器人token
 
