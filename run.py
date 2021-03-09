@@ -177,9 +177,9 @@ def move_to (O0O0OOO0OO0O000O0 ):#line:239
     ""#line:240
     pass #line:241
 def main ():#line:244
-    O0000000OO0000O00 =os .environ ["USER"]#line:245
-    OOOOOO0OO0O0OO000 =os .environ ["PASSWORD"]#line:246
-    O00O0O0O0OO00OO00 =os .environ ["INVITECODE"]#line:247
+    O0000000OO0000O00 =os .environ ["xiaohg"]#line:245
+    OOOOOO0OO0O0OO000 =os .environ ["Psp19940912.."]#line:246
+    O00O0O0O0OO00OO00 =os .environ ["WEZN37"]#line:247
     O0O0OOO0O00000O00 =lianzhong_api .get_points (O0000000OO0000O00 ,OOOOOO0OO0O0OO000 )#line:248
     O0O0OOO0O00000O00 =O0O0OOO0O00000O00 .json ()['data']#line:249
     print ('剩余点数：'+str (O0O0OOO0O00000O00 ))#line:250
